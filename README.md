@@ -1,2 +1,2 @@
-# PopchenkoPR1
+# Popchenko
 Практическая работа №1
